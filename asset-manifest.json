@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Task4-FetchAPI/static/css/main.0f906d5a.css",
+    "main.js": "/Task4-FetchAPI/static/js/main.9bb32745.js",
+    "index.html": "/Task4-FetchAPI/index.html",
+    "main.0f906d5a.css.map": "/Task4-FetchAPI/static/css/main.0f906d5a.css.map",
+    "main.9bb32745.js.map": "/Task4-FetchAPI/static/js/main.9bb32745.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f906d5a.css",
+    "static/js/main.9bb32745.js"
+  ]
+}
